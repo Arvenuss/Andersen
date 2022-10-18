@@ -1,3 +1,0 @@
-Today i learned about who is DevOps, software lifecycles and devops software methodologies.
-Make simple exercises in github. 
-Learned what is markdown syntax
