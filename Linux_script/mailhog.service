@@ -1,0 +1,9 @@
+[Unit]
+Description=MailHog
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/env /usr/local/bin/Mailhog
+
+[Install]
+WantedBy=multi-user.target
